@@ -1,0 +1,107 @@
+/* General Styling */
+.city-details-container {
+  max-width: 900px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #0a0a0a;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+  text-align: center;
+  color: #2c3e50;
+}
+
+.city-details-container:hover {
+  transform: scale(1.03);
+}
+
+/* Back Button Styling */
+.back-button {
+  background-color: #e74c3c; /* Changed to a bold red */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.back-button i {
+  margin-right: 10px;
+}
+
+.back-button:hover {
+  background-color: #c0392b; /* Darker shade of red on hover */
+}
+
+/* City Title Styling */
+.city-header {
+  margin-bottom: 30px;
+}
+
+.city-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #2980b9; /* Vibrant blue color for the city title */
+  text-transform: uppercase;
+}
+
+.city-country {
+  font-size: 1.2rem;
+  color: #8e44ad; /* Bold purple for the country name */
+  font-weight: 500;
+}
+
+/* Image Styling */
+.city-image-container {
+  position: relative;
+}
+
+.city-details-image {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+.city-details-image:hover {
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
+}
+
+/* Information Section */
+.city-info {
+  margin: 30px 0;
+}
+
+.city-info-item {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin: 10px 0;
+  color: #e67e22; /* Vibrant orange for the info text */
+  font-weight: bold;
+}
+
+.city-description {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #16a085; /* Teal color for description */
+  padding: 0 20px;
+  font-weight: 500;
+}
+
+/* Not Found Styling */
+.not-found {
+  text-align: center;
+  font-size: 2rem;
+  color: #e74c3c; /* Red for not-found error */
+  margin-top: 50px;
+}

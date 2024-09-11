@@ -1,0 +1,102 @@
+/* Comment Section Styles */
+.comment-section {
+    background-color: #f1f7fb;
+    padding: 30px;
+    margin: 50px auto;
+    max-width: 850px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .comment-section h2 {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .comment-input {
+    width: 100%;
+    padding: 15px;
+    border: 2px solid #6d135e;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    min-height: 120px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .comment-input:focus {
+    border-color: #180a15;
+    outline: none;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .submit-comment-btn {
+    background-color: #972184;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    border-radius: 25px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .submit-comment-btn:hover {
+    background-color: #be2390;
+    transform: translateY(-3px);
+  }
+  
+  .submit-comment-btn:active {
+    transform: translateY(0);
+  }
+  
+  /* Display Comments */
+  .comments-display {
+    margin-top: 40px;
+  }
+  
+  .comment-item {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    font-size: 1rem;
+    color: #34495e;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    position: relative;
+    animation: slideIn 0.4s ease-out;
+  }
+  
+  @keyframes slideIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .comment-item p {
+    margin: 0;
+  }
+  
+  .no-comments {
+    color: #7f8c8d;
+    text-align: center;
+    font-size: 1.1rem;
+    font-style: italic;
+  }
+  

@@ -1,0 +1,388 @@
+ [
+  {
+    "name": "Paris",
+    "population": "2,140,526",
+    "country": "France",
+    "Detail": "Paris, the capital of France, is renowned for its art, history, and culture. Known as the 'City of Light,' it boasts iconic landmarks like the Eiffel Tower, Notre-Dame Cathedral, and the Louvre Museum. With beautiful boulevards, cafes, and parks, Paris offers a rich blend of modernity and historical charm. It's a hub for fashion, cuisine, and romance, attracting millions of tourists every year.Paris, known as the City of Light, is one of the most romantic and culturally rich cities in the world. As the capital of France, it is celebrated for its timeless beauty, art, and fashion. Iconic landmarks like the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral attract millions of tourists every year. Paris is renowned for its beautiful boulevards, parks like the Jardin des Tuileries, and charming cafes. Beyond its aesthetics, the city plays a vital role in global politics, economics, and culture. Its fashion houses, such as Chanel and Dior, contribute to its reputation as a global fashion capital. The Seine River, which flows through the city, enhances its picturesque views. With a rich history, Paris has been a center for art, literature, and intellectual thought for centuries, hosting renowned figures such as Voltaire, Hemingway, and Picasso.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFyaXMlMjAzMDAlMjB0byUyMDQwMHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "New York",
+    "population": "8,398,748",
+    "country": "USA",
+    "Detail": "New York City, often referred to as 'The Big Apple,' is a vibrant metropolis in the United States. It's known for its iconic skyline, featuring landmarks such as the Statue of Liberty, Empire State Building, and Central Park. A global hub for finance, arts, and entertainment, New York offers a fast-paced lifestyle and a diverse cultural scene. Broadway, Times Square, and Wall Street are just a few of its must-visit attractions. New York City, also called The Big Apple, is a global hub for finance, media, art, and culture. Famous for its skyline filled with towering skyscrapers like the Empire State Building and One World Trade Center, it is a city that never sleeps. The Statue of Liberty is a symbol of freedom, welcoming millions of immigrants to America. NYC is a cultural melting pot, with neighborhoods like Chinatown, Little Italy, and Harlem reflecting its diverse population. Times Square is a dazzling spectacle of lights and advertisements, while Central Park offers a natural retreat in the city's heart. The city is known for its fast-paced lifestyle, world-class Broadway theaters, and art museums such as the Metropolitan Museum of Art and the Museum of Modern Art (MoMA). Additionally, Wall Street positions NYC as a global financial center.",
+    "image": "https://images.unsplash.com/photo-1510673354311-c81bb8506fc2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fG5ld3lvcmslMjAzMDAlMjB0byUyMDQwMHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Tokyo",
+    "population": "13,515,271",
+    "country": "Japan",
+    "Detail": "Tokyo, Japan's bustling capital, is a dynamic city that blends the ultra-modern with deep-rooted tradition. Skyscrapers and cutting-edge technology stand alongside ancient temples and serene gardens. Tokyo is famous for its fashion, food, and cultural districts, such as Shibuya, Shinjuku, and Akihabara. It's a tech-savvy city and a major global financial center, with attractions like the Tokyo Tower, Meiji Shrine, and the Imperial Palace. Tokyo, the bustling capital of Japan, is a fascinating blend of the ultra-modern and the deeply traditional. With its towering skyscrapers, neon-lit streets, and high-tech infrastructure, Tokyo is known for being a hub of technology and innovation. It is home to districts like Shibuya, known for its famous pedestrian crossing, and Shinjuku, with its vibrant nightlife. At the same time, Tokyo preserves its rich cultural heritage through sites like the Meiji Shrine, Sensoji Temple, and the Imperial Palace. The city is also a paradise for food lovers, offering everything from Michelin-starred restaurants to humble street vendors serving sushi, ramen, and tempura. Tokyo’s fashion districts, such as Harajuku, are globally influential, while its gaming and anime culture attracts enthusiasts worldwide. It is also a major financial center and a hub for international business.",
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dG9reW8lMjAzMDAlMjB0byUyMDQwMHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "London",
+    "population": "8,982,000",
+    "country": "UK",
+    "Detail": "London, the capital of the United Kingdom, is a city steeped in history and culture. Home to the British royal family and landmarks like Buckingham Palace, the Tower of London, and Big Ben, it's a city that blends the ancient with the modern. London is also a global financial hub, with world-class museums, theaters, and a thriving arts scene. The River Thames and iconic bridges, such as Tower Bridge, further enhance its charm.London, the capital of the United Kingdom, is a city of history and modernity. It is home to landmarks such as Big Ben, the Tower of London, and Buckingham Palace, where the British royal family resides. The River Thames runs through the heart of the city, offering scenic views, with iconic structures like Tower Bridge spanning its banks. London is a major global financial center, with The City and Canary Wharf being key business districts. The city is also rich in arts and culture, with world-class institutions such as the British Museum, National Gallery, and the West End theaters. London is known for its diversity, with over 300 languages spoken, reflecting its multicultural population. Neighborhoods like Camden, Soho, and Notting Hill each offer their own distinct vibe, from music and arts to upscale shopping. London is a city that blends the old and the new, making it a leading tourist destination.",
+    "image": "https://images.unsplash.com/photo-1491156855053-9cdff72c7f85?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bG9uZG9uJTIwMzAwJTIwdG8lMjA0MDB8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Sydney",
+    "population": "5,312,163",
+    "country": "Australia",
+    "Detail": "Sydney, the largest city in Australia, is known for its iconic Sydney Opera House and Harbour Bridge. Situated along the coast, it's a vibrant city with beautiful beaches, including the famous Bondi Beach. Sydney is a hub for art, culture, and outdoor activities, offering a unique blend of urban sophistication and natural beauty. The city is also famous for its stunning waterfront and lively nightlife.Sydney is Australia’s largest and most iconic city, known for its stunning Sydney Opera House and Harbour Bridge. The city's waterfront is one of the most beautiful in the world, and popular beaches like Bondi Beach and Manly Beach are perfect for surfing and sunbathing. Sydney offers a blend of urban sophistication and natural beauty, with lush parks like the Royal Botanic Garden and coastal walks along the cliffs. The city's cultural scene is vibrant, with art galleries, museums, and a thriving music and theater community. Sydney is also a global business hub, playing a crucial role in the Asia-Pacific economy. Its multicultural population brings a rich diversity to the city's food and festivals. With mild, sunny weather year-round, Sydney is a top destination for travelers who enjoy both outdoor adventure and modern city life.",
+    "image": "https://images.unsplash.com/photo-1543069596-c8a9b7e75a4a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c3luZGV5JTIwMzAwJTIwdG8lMjA0MDB8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Dubai",
+    "population": "3,331,420",
+    "country": "UAE",
+    "Detail": "Dubai is a city of superlatives in the United Arab Emirates, known for its modern architecture, luxury shopping, and vibrant nightlife. Its skyline is dominated by the Burj Khalifa, the world’s tallest building, and other futuristic structures. Dubai is a global business hub with a booming tourism industry, famous for its artificial islands, such as Palm Jumeirah, and massive shopping malls. It's also known for its desert safaris and cultural experiences.Dubai is a city of futuristic architecture, luxury shopping, and vibrant nightlife. Known for its record-breaking skyscrapers, such as the Burj Khalifa, the tallest building in the world, Dubai is a symbol of innovation and ambition. The city is famous for its Palm Jumeirah, an artificial island shaped like a palm tree, and massive shopping malls like the Dubai Mall, which features an aquarium, an ice rink, and countless luxury stores. Dubai’s economy is driven by tourism, real estate, and finance, making it a key business hub in the Middle East. The city's blend of modernity and tradition is reflected in attractions like desert safaris, traditional souks, and the luxurious resorts that cater to international visitors. With its rapid growth and constant expansion, Dubai is a city where luxury meets adventure, offering a unique experience for travelers.",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RHViYWklMjAzMDAlMjB0byUyMDQwMHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Rome",
+    "population": "2,870,336",
+    "country": "Italy",
+
+    "Detail": "Rome, the capital city of Italy, is steeped in history and was the center of the Roman Empire. The city is renowned for its ancient ruins, including the Colosseum, Roman Forum, and the Pantheon. Vatican City, the spiritual center of the Roman Catholic Church, is also within Rome’s borders. The city boasts beautiful piazzas, fountains, and a rich cultural heritage, making it one of the most visited cities in the world.",
+    "image": "https://images.unsplash.com/photo-1529154036614-a60975f5c760?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9tZSUyMDMwMCUyMHRvJTIwNDAwfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Berlin",
+    "population": "3,769,495",
+    "country": "Germany",
+    "Detail": "Berlin, the capital of Germany, is a city known for its tumultuous history and vibrant contemporary culture. Once divided by the Berlin Wall, it now stands as a symbol of unity and freedom. Berlin is famous for its museums, including Museum Island, its street art, and its techno music scene. With landmarks like the Brandenburg Gate and the Reichstag, it is a city that seamlessly blends history with modernity. Berlin, the capital of Germany, is a city with a unique and tumultuous history. Once divided by the Berlin Wall during the Cold War, it now stands as a symbol of unity and freedom. Berlin is famous for its historical landmarks, such as the Brandenburg Gate, Reichstag Building, and Checkpoint Charlie, as well as its numerous museums on Museum Island. The city is also known for its vibrant contemporary culture, with a flourishing street art scene, innovative architecture, and a thriving nightlife, especially in the world of techno music. Berlin is a melting pot of cultures, with a diverse population and a rich history that draws travelers interested in both the past and the future. Its open and inclusive atmosphere makes it one of Europe’s most progressive cities.",
+    "image": "https://images.unsplash.com/photo-1490684120840-1459ffb779c2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmVybGluJTIwMzAwJTIwdG8lMjA0MDB8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Barcelona",
+    "population": "1,636,762",
+    "country": "Spain",
+    "Detail": "Barcelona, located on the Mediterranean coast of Spain, is a city known for its unique architecture, especially the works of Antoni Gaudí, such as the Sagrada Família and Park Güell. The city is a cultural and economic hub, offering a vibrant mix of historical sites, beaches, and a lively street scene. Barcelona is also famous for its delicious cuisine, beautiful boulevards, and as the home of FC Barcelona.Barcelona, located on the Mediterranean coast, is famous for its unique architecture, particularly the works of Antoni Gaudí, such as the Sagrada Família and Park Güell. As a cultural and economic hub, Barcelona is known for its lively street life, historic Gothic Quarter, and beautiful beaches. The city is a blend of old and new, with medieval buildings standing alongside modernist landmarks. Its food scene is world-renowned, offering delicious tapas and paella, while its football team, FC Barcelona, is an important part of its cultural identity. With its sunny climate and festive atmosphere, Barcelona is a major tourist destination, attracting visitors from around the world.",
+    "image": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFyY2Vsb25hJTIwMzAwJTIwdG8lMjA0MDB8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Bangkok",
+    "population": "8,281,000",
+    "country": "Thailand",
+    "Detail": "Bangkok, the capital of Thailand, is a city known for its vibrant street life, ornate temples, and cultural landmarks. The city offers a fascinating mix of old and new, with traditional markets, modern skyscrapers, and bustling nightlife. Attractions include the Grand Palace, Wat Arun, and Chatuchak Market. Bangkok is also famous for its street food and its role as a gateway to Thailand's tropical islands and beaches. Bangkok, the capital of Thailand, is a city that offers a vibrant mix of tradition and modernity. Known for its ornate temples such as Wat Arun and Wat Phra Kaew, the city is deeply rooted in its Buddhist culture. However, Bangkok is also a bustling metropolis, with towering skyscrapers, vibrant street markets, and a thriving nightlife. The city’s floating markets, street food, and traditional Thai massages attract millions of visitors. Khao San Road is a popular destination for backpackers, while the Chao Phraya River offers scenic boat tours. Bangkok is also a gateway to Thailand’s tropical beaches and ancient temples, making it a key destination for travelers interested in Southeast Asia.",
+    "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QkFOR0tPS3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  
+    {
+      "name": "Islamabad",
+      "population": "1,015,000",
+      "country": "Pakistan",
+      "Detail": "Islamabad, the capital city of Pakistan, is known for its modern infrastructure, green spaces, and peaceful environment. Nestled against the backdrop of the Margalla Hills, the city is home to iconic landmarks such as the Faisal Mosque, the largest mosque in South Asia, and the Pakistan Monument. Islamabad is a well-planned city, featuring wide boulevards, government buildings, and embassies. Its blend of natural beauty, serenity, and urban development makes it one of the most livable cities in Pakistan.",
+      "image": "https://images.unsplash.com/photo-1568883337533-01bcdb36bda8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aXNsYW1hYmFkJTIwcGFraXN0YW58ZW58MHx8MHx8fDA%3D"
+    }
+    
+  ,
+  {
+    "name": "Cairo",
+    "population": "9,500,000",
+    "country": "Egypt",
+    "Detail": "Cairo, the capital of Egypt, is one of the largest cities in the Middle East and Africa, steeped in history and culture. Known for its proximity to the Great Pyramids of Giza and the Sphinx, Cairo offers a journey through millennia of human history. The city is also famous for the Nile River, bustling souks, and landmarks such as the Cairo Citadel and the Egyptian Museum, which houses thousands of ancient artifacts, including treasures from King Tutankhamun's tomb. Cairo's vibrant street life, Islamic architecture, and cultural heritage make it a vital destination for those interested in Egypt's ancient and modern stories.",
+    "image": "https://images.unsplash.com/photo-1541769740-098e80269166?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2Fpcm98ZW58MHx8MHx8fDA%3D"
+  }
+  
+  ,
+    {
+      "name": "Rio de Janeiro",
+      "population": "6,748,000",
+      "country": "Brazil",
+      "Detail": "Rio de Janeiro, located on Brazil's southeastern coast, is famous for its stunning natural beauty, iconic landmarks, and vibrant culture. The city is home to the Christ the Redeemer statue, Sugarloaf Mountain, and the world-renowned Copacabana Beach. Rio is known for its annual Carnival, samba music, and lively atmosphere. With its mix of urban landscapes and rainforests, it attracts millions of visitors each year.",
+      "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fFJpbyUyMGRlJTIwSmFuZWlyb3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Buenos Aires",
+      "population": "2,890,151",
+      "country": "Argentina",
+      "Detail": "Buenos Aires, the capital of Argentina, is a city known for its European-style architecture, rich culture, and passion for tango. The city boasts historic neighborhoods such as La Boca and Recoleta, as well as attractions like the Teatro Colón and the Casa Rosada. Buenos Aires is also famous for its vibrant nightlife, world-class cuisine, and lively street markets.",
+      "image": "https://images.unsplash.com/photo-1679417302546-2c61d4e313f2?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fEJ1ZW5vcyUyMEFpcmVzfGVufDB8fDB8fHww"
+    },
+    {
+      "name": "Istanbul",
+      "population": "15,462,452",
+      "country": "Turkey",
+      "Detail": "Istanbul, Turkey's largest city, straddles Europe and Asia, offering a unique blend of cultures. It is famous for its historic sites, including the Hagia Sophia, Blue Mosque, and Topkapi Palace. Istanbul's bustling bazaars, such as the Grand Bazaar and Spice Bazaar, offer a vibrant shopping experience. The city is also known for its beautiful Bosphorus Strait, which separates the two continents.",
+      "image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8SXN0YW5idWx8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "name": "Moscow",
+      "population": "11,920,000",
+      "country": "Russia",
+      "Detail": "Moscow, the capital of Russia, is a city of contrasts, blending historic grandeur with modern innovation. It's known for iconic landmarks like the Kremlin, Red Square, and St. Basil's Cathedral, with its colorful domes. As a political, cultural, and economic center, Moscow has a rich history, world-class museums, and a dynamic arts scene. The Moscow Metro, with its ornate stations, is a symbol of the city's grandeur.",
+      "image": "https://images.unsplash.com/photo-1502154371219-2efef412e2cd?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fCUyMk1vc2Nvd3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Mexico City",
+      "population": "9,209,944",
+      "country": "Mexico",
+      "Detail": "Mexico City, the capital of Mexico, is one of the largest and most vibrant cities in the world. It is known for its rich history, ancient ruins, and modern skyscrapers. The city is home to landmarks such as the Zócalo, National Palace, and the ancient Aztec city of Teotihuacán. Mexico City also boasts a thriving arts scene, with the Frida Kahlo Museum and the National Museum of Anthropology among its top attractions.",
+      "image": "https://images.unsplash.com/photo-1674501021977-f12fbde5f11c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fE1leGljbyUyMENpdHl8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "name": "Toronto",
+      "population": "2,731,571",
+      "country": "Canada",
+      "Detail": "Toronto, the largest city in Canada, is known for its multicultural diversity, iconic skyline, and vibrant arts scene. The city is home to the CN Tower, one of the tallest free-standing structures in the world, as well as the Royal Ontario Museum and the Art Gallery of Ontario. Toronto's bustling neighborhoods, like Kensington Market and the Distillery District, reflect its diverse culture and rich history.",
+      "image": "https://images.unsplash.com/photo-1507992781348-310259076fe0?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8VG9yb250b3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Seoul",
+      "population": "9,733,509",
+      "country": "South Korea",
+      "Detail": "Seoul, the capital of South Korea, is a bustling metropolis that blends ancient history with modern technology. It's known for its futuristic skyscrapers, high-tech subways, and vibrant K-pop culture. Attractions include Gyeongbokgung Palace, Namsan Seoul Tower, and the bustling shopping district of Myeong-dong. The city is also home to traditional markets, temples, and serene parks, offering a rich cultural experience.",
+      "image": "https://images.unsplash.com/photo-1696943380870-cc99400cacdd?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2VvdWwlMjB3aW50ZXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "name": "Lisbon",
+      "population": "504,718",
+      "country": "Portugal",
+      "Detail": "Lisbon, the capital of Portugal, is known for its hilly landscape, cobblestone streets, and colorful buildings. The city boasts iconic landmarks such as the Belém Tower, Jerónimos Monastery, and São Jorge Castle. Lisbon is also famous for its vibrant neighborhoods, including Alfama and Bairro Alto, as well as its rich maritime history and delicious cuisine, including the beloved pastéis de nata.",
+      "image": "https://images.unsplash.com/photo-1660727962865-4cfe6cd22d09?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bGlzYm9uJTIwcG9ydHVnYWx8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "name": "San Francisco",
+      "population": "883,305",
+      "country": "USA",
+      "Detail": "San Francisco, located on the northern coast of California, is known for its iconic Golden Gate Bridge, historic cable cars, and steep hills. The city is a cultural and technological hub, with landmarks like Alcatraz Island and Fisherman's Wharf. San Francisco's diverse neighborhoods, including Chinatown and the Mission District, offer a rich blend of cultures and cuisines, making it a popular tourist destination.",
+      "image": "https://images.unsplash.com/photo-1719858403527-e171e237fe59?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHNhbiUyMGZyYW5jaXNjb3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Vienna",
+      "population": "1,897,000",
+      "country": "Austria",
+      "Detail": "Vienna, the capital of Austria, is known for its imperial palaces, classical music, and rich cultural heritage. The city is home to the Schönbrunn Palace, St. Stephen's Cathedral, and the Hofburg, once the seat of the Habsburg dynasty. Vienna's coffeehouses, opera houses, and museums reflect its deep appreciation for the arts and history, while its elegant architecture makes it one of Europe's most beautiful cities.",
+      "image": "https://images.unsplash.com/photo-1506146332389-18140dc7b2fb?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2FuJTIwZnJhbmNpc2NvJTIwZmVycnklMjBidWlsZGluZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Madrid",
+      "population": "3,223,334",
+      "country": "Spain",
+      "Detail": "Madrid, the capital of Spain, is a city known for its grand boulevards, historic plazas, and royal palaces. The city is home to the Royal Palace of Madrid, the Prado Museum, and the bustling Puerta del Sol. Madrid's vibrant nightlife, world-class restaurants, and lively flamenco shows make it a popular destination for travelers. The city's blend of history and modernity creates a unique atmosphere.",
+      "image": "https://images.unsplash.com/photo-1509845350455-fb0c36048db1?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWFkcmlkfGVufDB8fDB8fHww"
+    },
+    {
+      "name": "Cape Town",
+      "population": "4,618,000",
+      "country": "South Africa",
+      "Detail": "Cape Town, located at the southern tip of Africa, is known for its stunning landscapes, including Table Mountain and the Cape of Good Hope. The city is famous for its beautiful beaches, vibrant arts scene, and historic Robben Island, where Nelson Mandela was imprisoned. Cape Town's multicultural heritage is reflected in its neighborhoods, cuisine, and festivals, making it one of Africa's most diverse cities.",
+      "image": "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Q2FwZSUyMFRvd258ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "name": "Athens",
+      "population": "664,046",
+      "country": "Greece",
+      "Detail": "Athens, the capital of Greece, is a city steeped in ancient history and mythology. It is home to iconic landmarks such as the Acropolis, Parthenon, and the Ancient Agora. Athens is known as the cradle of Western civilization and democracy. The city's historic sites are complemented by modern attractions, including vibrant neighborhoods, art galleries, and cafes that make it a dynamic metropolis.",
+      "image": "https://images.unsplash.com/photo-1717539779487-e9b0bd6b8bf6?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QXRoZW5zfGVufDB8fDB8fHww"
+    },
+    {
+      "name": "Sydney",
+      "population": "5,312,000",
+      "country": "Australia",
+      "Detail": "Sydney, the largest city in Australia, is famous for its stunning harbor, iconic Opera House, and Sydney Harbour Bridge. The city's beautiful beaches, such as Bondi Beach, attract surfers and sunseekers alike. Sydney is a major cultural hub, with world-class museums, theaters, and festivals. Its mix of natural beauty and urban sophistication makes it one of the world's most livable cities.",
+      "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3lkbmV5fGVufDB8fDB8fHww"
+    },
+    {
+      "name": "Prague",
+      "population": "1,308,632",
+      "country": "Czech Republic",
+      "Detail": "Prague, the capital of the Czech Republic, is known for its stunning medieval architecture, charming old town, and rich cultural history. The city is home to landmarks such as Prague Castle, Charles Bridge, and the Astronomical Clock. Its winding cobblestone streets, picturesque squares, and vibrant arts scene make it a popular destination for travelers. Prague's history as a cultural and intellectual center is reflected in its many museums, galleries, and festivals.",
+      "image": "https://images.unsplash.com/photo-1555869635-f8c81496cea3?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cHJhZ3VlJTIwY2FzdGxlfGVufDB8fDB8fHww"
+    }
+    ,
+      {
+        "name": "Baku",
+        "population": "2,374,000",
+        "country": "Azerbaijan",
+        "Detail": "The capital of Azerbaijan, Baku is known for its modern Flame Towers, historic Old City, and the Caspian Sea waterfront.",
+        "image": "https://images.unsplash.com/photo-1642856761437-5b5efcb36d81?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8QmFrdXxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Tbilisi",
+        "population": "1,221,000",
+        "country": "Georgia",
+        "Detail": "The capital city of Georgia, Tbilisi is known for its diverse architecture, including ancient churches and Soviet-era buildings.",
+        "image": "https://images.unsplash.com/photo-1650301818411-2e41e2331719?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGJpbGlzaXxlbnwwfHwwfHx8MA%3D%3D"
+     }, {
+        "name": "Vilnius",
+        "population": "539,000",
+        "country": "Lithuania",
+        "Detail": "Lithuania's capital, Vilnius is known for its baroque architecture, historic old town, and vibrant arts scene.",
+        "image": "https://images.unsplash.com/photo-1605614842755-522c056ebce3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Vmlsbml1c3xlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Lima",
+        "population": "9,751,000",
+        "country": "Peru",
+        "Detail": "The capital of Peru, Lima is known for its colonial architecture, vibrant culinary scene, and historical sites like the Plaza Mayor.",
+        "image": "https://images.unsplash.com/photo-1560564203-34c933a5645c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fExpbWF8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "name": "Kiev",
+        "population": "2,800,000",
+        "country": "Ukraine",
+        "Detail": "Kiev, the capital of Ukraine, is known for its historic churches, vibrant cultural scene, and landmarks like Saint Sophia Cathedral.",
+        "image": "https://images.unsplash.com/photo-1635554776257-1f6188ce5c43?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8S2lldnxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Dhaka",
+        "population": "21,000,000",
+        "country": "Bangladesh",
+        "Detail": "The capital of Bangladesh, Dhaka is known for its bustling markets, historical sites, and vibrant cultural life.",
+        "image": "https://images.unsplash.com/photo-1716388781968-e807f87fe910?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8RGhha2F8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "name": "Managua",
+        "population": "1,040,000",
+        "country": "Nicaragua",
+        "Detail": "Managua, the capital of Nicaragua, is known for its modernist architecture, scenic lakeside location, and vibrant culture.",
+        "image": "https://images.unsplash.com/photo-1583805658623-9a27a61ba9c2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fE1hbmFndWF8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "name": "Kigali",
+        "population": "1,200,000",
+        "country": "Rwanda",
+        "Detail": "Kigali, the capital of Rwanda, is known for its cleanliness, vibrant markets, and as a center for business and culture in the region.",
+        "image": "https://images.unsplash.com/photo-1721402495451-41724ae641a4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGtpZ2FsaXxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Accra",
+        "population": "2,201,863",
+        "country": "Ghana",
+        "Detail": "Accra, the capital of Ghana, is known for its lively markets, historic landmarks, and as a cultural and economic hub of the country.",
+        "image": "https://images.unsplash.com/photo-1695134565911-87ea3a4ffde1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFjY3JhJTIwcm9hZHxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Port Moresby",
+        "population": "383,000",
+        "country": "Papua New Guinea",
+        "Detail": "Port Moresby, the capital of Papua New Guinea, is known for its coastal location, diverse cultures, and as a gateway to the country's rich natural resources.",
+        "image": "https://images.unsplash.com/photo-1653277276251-f989d1e1d20e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFBvcnQlMjBNb3Jlc2J5fGVufDB8fDB8fHww"
+      },
+      {
+        "name": "Helsinki",
+        "population": "655,000",
+        "country": "Finland",
+        "Detail": "Helsinki, the capital of Finland, is known for its design scene, maritime history, and vibrant cultural events.",
+        "image": "https://images.unsplash.com/photo-1522885147691-06d859633fb8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SGVsc2lua2l8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "name": "Riga",
+        "population": "632,000",
+        "country": "Latvia",
+        "Detail": "Riga, the capital of Latvia, is known for its Art Nouveau architecture, historic Old Town, and vibrant cultural life.",
+        "image": "https://images.unsplash.com/photo-1694076609523-b16c549d6937?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8UmlnYXxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Bucharest",
+        "population": "1,832,000",
+        "country": "Romania",
+        "Detail": "Bucharest, the capital of Romania, is known for its grand architecture, including the Palace of the Parliament, and its vibrant nightlife.",
+        "image": "https://images.unsplash.com/photo-1655664153419-3584ed84449d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEJ1Y2hhcmVzdHxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Lusaka",
+        "population": "2,710,000",
+        "country": "Zambia",
+        "Detail": "Lusaka, the capital of Zambia, is known for its bustling markets, cultural institutions, and as a center for commerce and politics.",
+        "image": "https://images.unsplash.com/photo-1630574514371-13c5086c7169?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8THVzYWthfGVufDB8fDB8fHww"
+      },
+      {
+        "name": "Windhoek",
+        "population": "330,000",
+        "country": "Namibia",
+        "Detail": "Windhoek, the capital of Namibia, is known for its German colonial architecture, and as a center of cultural and economic life in the country.",
+        "image": "https://images.unsplash.com/photo-1586100810957-e4a1fed8c645?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fFdpbmRob2VrfGVufDB8fDB8fHww"
+      },
+      {
+        "name": "Suva",
+        "population": "94,000",
+        "country": "Fiji",
+        "Detail": "Suva, the capital of Fiji, is known for its colonial architecture, vibrant market, and as a cultural and administrative center of the islands.",
+        "image": "https://images.unsplash.com/photo-1552294784-0342648ac419?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHN1dmF8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "name": "Yerevan",
+        "population": "1,080,000",
+        "country": "Armenia",
+        "Detail": "Yerevan, the capital of Armenia, is known for its pink-hued buildings, cultural institutions, and as a center of Armenian history and culture.",
+        "image": "https://images.unsplash.com/photo-1516415855612-c72c024b0b92?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8eWVyZXZhbiUyMGNpdHl8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "name": "Maputo",
+        "population": "1,092,000",
+        "country": "Mozambique",
+        "Detail": "Maputo, the capital of Mozambique, is known for its coastal location, vibrant markets, and colonial-era architecture.",
+        "image": "https://images.unsplash.com/photo-1526998758291-f87c4c1a8fff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fE1hcHV0b3xlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Addis Ababa",
+        "population": "4,600,000",
+        "country": "Ethiopia",
+        "Detail": "Addis Ababa, the capital of Ethiopia, is known for its historical sites, including the National Museum and the Holy Trinity Cathedral.",
+        "image": "https://images.unsplash.com/photo-1645969889656-bda4525c0b1b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8QWRkaXMlMjBBYmFiYXxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Asunción",
+        "population": "525,000",
+        "country": "Paraguay",
+        "Detail": "Asunción, the capital of Paraguay, is known for its colonial architecture, vibrant culture, and as the economic and political center of the country.",
+        "image": "https://images.unsplash.com/photo-1655425774484-008aa1b2a324?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QXN1bmNpJUMzJUIzbnxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Libreville",
+        "population": "703,000",
+        "country": "Gabon",
+        "Detail": "Libreville, the capital of Gabon, is known for its coastal location, vibrant markets, and as a center for the country's administrative and political life.",
+        "image": "https://images.unsplash.com/photo-1594612622464-ab6f730893f6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGxpYnJldmlsbGV8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "name": "Nairobi",
+        "population": "4,397,073",
+        "country": "Kenya",
+        "Detail": "Nairobi, the capital of Kenya, is known for its diverse cultural attractions, including the Nairobi National Park and the Giraffe Centre.",
+        "image": "https://images.unsplash.com/photo-1693902997450-7e912c0d3554?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmFpcm9iaSUyMGNpdHl8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "name": "Santo Domingo",
+        "population": "1,075,000",
+        "country": "Dominican Republic",
+        "Detail": "Santo Domingo, the capital of the Dominican Republic, is known for its historic Zona Colonial, vibrant culture, and colonial architecture.",
+        "image": "https://images.unsplash.com/photo-1716718279681-3917f8d942fd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fFNhbnRvJTIwRG9taW5nb3xlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Ouagadougou",
+        "population": "2,000,000",
+        "country": "Burkina Faso",
+        "Detail": "Ouagadougou, the capital of Burkina Faso, is known for its markets, cultural festivals, and as a center of West African culture.",
+        "image": "https://images.unsplash.com/photo-1596021876043-3ec2658c4477?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHVhZ2Fkb3Vnb3UlMjAlMjBCdXJraW5hJTIwRmFzb3xlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Honiara",
+        "population": "84,000",
+        "country": "Solomon Islands",
+        "Detail": "Honiara, the capital of the Solomon Islands, is known for its coastal beauty, markets, and as the center of government and commerce.",
+        "image": "https://images.unsplash.com/photo-1468818438311-4bab781ab9b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhvbmlhcmElMjBmcmVlfGVufDB8fDB8fHww"
+      },
+      {
+        "name": "Tunis",
+        "population": "2,700,000",
+        "country": "Tunisia",
+        "Detail": "Tunis, the capital of Tunisia, is known for its historic medina, vibrant souks, and as a center of culture and politics.",
+        "image": "https://images.unsplash.com/photo-1702590674712-e676972f06f3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dHVuaXNpYXxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Dili",
+        "population": "277,000",
+        "country": "Timor-Leste",
+        "Detail": "Dili, the capital of Timor-Leste, is known for its beaches, colonial architecture, and as a center of culture and politics in the young nation.",
+        "image": "https://images.unsplash.com/photo-1717651361766-b568645b3a1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFRpbW9yJTIwTGVzdGV8ZW58MHx8MHx8fDA%3D"
+      }
+    
+  ]
+  

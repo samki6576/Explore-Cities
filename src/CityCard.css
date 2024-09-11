@@ -1,0 +1,48 @@
+.city-card {
+  background-color: #fff;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  transition: transform 0.3s ease-in-out;
+  position: relative;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.city-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Add a dark overlay for readability */
+  border-radius: 10px;
+  z-index: 1;
+}
+
+.city-info {
+  position: relative;
+  z-index: 2;
+}
+
+.city-info h2 {
+  font-size: 1.8em;
+  color: #fff;
+}
+
+.city-info p {
+  font-size: 1.2em;
+  color: #ddd;
+}
+
+.city-card:hover {
+  transform: translateY(-5px);
+}
