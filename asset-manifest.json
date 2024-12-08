@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Explore-Cities/static/css/main.fbda62a2.css",
+    "main.js": "/Explore-Cities/static/js/main.e2c9d95d.js",
+    "static/js/453.1dfb54b7.chunk.js": "/Explore-Cities/static/js/453.1dfb54b7.chunk.js",
+    "index.html": "/Explore-Cities/index.html",
+    "main.fbda62a2.css.map": "/Explore-Cities/static/css/main.fbda62a2.css.map",
+    "main.e2c9d95d.js.map": "/Explore-Cities/static/js/main.e2c9d95d.js.map",
+    "453.1dfb54b7.chunk.js.map": "/Explore-Cities/static/js/453.1dfb54b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbda62a2.css",
+    "static/js/main.e2c9d95d.js"
+  ]
+}
