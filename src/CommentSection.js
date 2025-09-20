@@ -34,10 +34,13 @@ function CommentSection() {
         />
         <button type="submit" className="submit-comment-btn">Post Comment</button>
       </form>
-      
-
-     
-    
+      <div className="comments-display">
+        {comments.length > 0 ? (
+          comments.map((c, i) => <div key={i} className="comment-item">{c}</div>)
+        ) : (
+          <div className="no-comments">No comments yet.</div>
+        )}
+      </div>
     </div>
   );
 }
