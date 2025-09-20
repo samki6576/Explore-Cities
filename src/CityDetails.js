@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import './CityDetails.css';
-<link rel="icon" href="EXPLORE.png" /> 
+
 function CityDetails({ cities }) {
   const { name } = useParams();
   const city = cities.find((city) => city.name === name);
